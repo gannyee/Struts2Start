@@ -16,7 +16,7 @@
         </action>
 
         <action name="helloWorld" class="Struts2.HelloWorldAction">
-            <result name="input">/jsp/index.jsp</result>
+            <result name="input">/WEB-INF/jsp/index.jsp</result>
             <result>/WEB-INF/jsp/helloWorld.jsp</result>
         </action>
 
